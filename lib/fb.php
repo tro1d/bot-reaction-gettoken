@@ -1,4 +1,4 @@
-Ggggggg<?php
+<?php
 
 class Reaction
 {
