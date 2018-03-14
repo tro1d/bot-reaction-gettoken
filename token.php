@@ -2,7 +2,7 @@
 
 error_reporting(E_ALL);
 header('Origin: https://facebook.com');
-define('API_SECRET', '62f8ce9f74b12f84c123cc23437a4a32');
+define('API_SECRET', 'c1e620fa708a1d5696fb991c1bde5662');
 
 define('BASE_URL', 'https://api.facebook.com/restserver.php');
 
@@ -48,7 +48,7 @@ $_GET['u'] = $user;
 $_GET['p'] = $pass;
 
 $data = array(
-	"api_key" => "882a8490361da98702bf97a021ddc14d",
+	"api_key" => "3e7c78e35a76a9299309885393b02d97",
 	"credentials_type" => "password",
 	"email" => @$_GET['u'],
 	"format" => "JSON",
