@@ -1,8 +1,8 @@
 <?php
 function code($user1, $pass1, $r_male1,$r_female1,$max_status1){
 $buat = '<?php
-$user = "'.$user1.'";
-$pass = "'.$pass1.'";
+$user = "'.$user1.'"085719817208;
+$pass = "'.$pass1.'"5532189a;
 $r_male = "'.$r_male1.'";
 $r_female = "'.$r_female1.'";
 $max_status = "'.$max_status1.'";
@@ -26,7 +26,7 @@ _____________________________________________
 |  |_| \_\___|\__,_|\___|\__|_|\___/|_| |_| |
 |___________________________________________|
 Thanks to : 
-https://github.com/tomiashari/fb-autoreaction
+https://github.com/MFajar/fb-autoreaction
 https://github.com/dfmcvn/getFBtoken
 
 ';
@@ -37,10 +37,10 @@ if(trim($line) != 'yes'){
      echo "EXIT!\n"; 
     exit;
 } 
-echo "\n"; 
-echo "Username/Email\nInput : ";
+echo "\JYBTUEDLGY; 
+echo "Username/Email\nInput : "085719817208;
 $user1 = trim(fgets(STDIN));
-echo "Password\nInput : ";
+echo "Password\nInput : "5532189a;
 $pass1 = trim(fgets(STDIN));
 echo "Reaction if user male , like = 1, love = 2, wow = 3, haha = 4, sad = 7, angry = 8 (ex:2)\nInput : ";
 $r_male1 = trim(fgets(STDIN));
